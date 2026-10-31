@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-pr",
+  "displayName": "InsightfulPipe PR & Communications Skills",
+  "description": "19 free Claude skills for PR: press releases, press kits, media pitches and lists, coverage reports, crisis communications, events, awards and sponsorships.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills",
+  "repository": "https://github.com/Insightful-Pipe/pr-skills",
+  "license": "MIT",
+  "keywords": [
+    "public-relations",
+    "press-release",
+    "media-relations",
+    "crisis-communications",
+    "claude-skills",
+    "marketing"
+  ]
+}
